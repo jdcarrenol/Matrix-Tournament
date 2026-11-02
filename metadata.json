@@ -1,0 +1,6 @@
+{
+  "name": "MATRIX TOURNAMENT - Yu-Gi-Oh! Multiversal Championship",
+  "description": "Sistema Central de Gestión, Motor UI/UX y Comisionado del MATRIX TOURNAMENT: Dashboard profesional de esports, árbol esquemático de eliminación directa en texto limpio, base de datos de +64 competidores con IA y fichas técnicas pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
